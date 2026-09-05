@@ -1,0 +1,183 @@
+%PDF-1.4
+%ASCII-CV
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 5465 >>
+stream
+BT /F2 20.00 Tf 50.00 744.00 Td (SHERIN DAHER) Tj ET
+BT /F1 10.20 Tf 50.00 719.00 Td (Technical Marketing Engineer | Developer Documentation & Documentation Strategy | AI Infrastructure) Tj ET
+BT /F1 8.70 Tf 50.00 704.00 Td (Haifa, Israel  |  +972-526337084  |  sherindaher1@gmail.com  |  linkedin.com/in/sherin-daher-45520815b) Tj ET
+0.75 w 50 688.00 m 562 688.00 l S
+BT /F2 10.20 Tf 50.00 662.00 Td (PROFESSIONAL SUMMARY) Tj ET
+0.75 w 50 652.00 m 562 652.00 l S
+BT /F1 9.20 Tf 50.00 636.00 Td (Technical documentation and developer experience leader with 15+ years of experience building documentation) Tj ET
+BT /F1 9.20 Tf 50.00 623.70 Td (systems for complex developer and enterprise technologies. Currently lead documentation strategy for NVIDIA) Tj ET
+BT /F1 9.20 Tf 50.00 611.40 Td (Run:ai at the intersection of AI infrastructure, open source, developer documentation, and engineering.) Tj ET
+BT /F1 9.20 Tf 50.00 599.10 Td (Experienced in building and transforming documentation functions, docs-as-code infrastructure,) Tj ET
+BT /F1 9.20 Tf 50.00 586.80 Td (developer-focused information architecture, contribution models, governance, API documentation, and release) Tj ET
+BT /F1 9.20 Tf 50.00 574.50 Td (workflows. Most recently focused on MCP, Agent Skills, and agent-assisted documentation workflows that) Tj ET
+BT /F1 9.20 Tf 50.00 562.20 Td (enable engineers and external contributors to maintain documentation at scale.) Tj ET
+BT /F2 10.20 Tf 50.00 538.90 Td (CORE COMPETENCIES) Tj ET
+0.75 w 50 528.90 m 562 528.90 l S
+BT /F1 8.40 Tf 50.00 512.90 Td (Developer Documentation  |  Documentation Strategy  |  Information Architecture  |  API Documentation  |) Tj ET
+BT /F1 8.40 Tf 50.00 501.90 Td (Developer Experience  |  Docs-as-Code  |  Git/GitHub  |  CI/CD Documentation Workflows  |  Open Source) Tj ET
+BT /F1 8.40 Tf 50.00 490.90 Td (|  AI Infrastructure  |  MCP  |  Agent Skills  |  Documentation Governance  |  Contributor Enablement) Tj ET
+BT /F2 10.20 Tf 50.00 470.90 Td (PROFESSIONAL EXPERIENCE) Tj ET
+0.75 w 50 460.90 m 562 460.90 l S
+BT /F2 11.20 Tf 50.00 439.90 Td (NVIDIA - Run:ai) Tj ET
+BT /F1 9.20 Tf 50.00 423.90 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 423.90 Td (Technical Marketing Engineer \(Previously Senior Technical Writer\) Nov 2024 - Present) Tj ET
+BT /F1 9.20 Tf 50.00 407.60 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 407.60 Td (Lead documentation strategy and developer experience for NVIDIA Run:ai, an AI infrastructure and) Tj ET
+BT /F1 9.20 Tf 62.00 395.30 Td (Kubernetes-based workload orchestration platform. As the sole documentation owner, partner closely) Tj ET
+BT /F1 9.20 Tf 62.00 383.00 Td (with Engineering, Product Management, UX, and other cross-functional teams to define documentation) Tj ET
+BT /F1 9.20 Tf 62.00 370.70 Td (architecture, tooling, standards, contribution workflows, and release strategy.) Tj ET
+BT /F1 9.20 Tf 50.00 354.40 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 354.40 Td (Own the end-to-end documentation strategy and delivery for Run:ai, spanning developer and API) Tj ET
+BT /F1 9.20 Tf 62.00 342.10 Td (documentation, installation and administration, concepts, technical references, release content, and) Tj ET
+BT /F1 9.20 Tf 62.00 329.80 Td (user workflows.) Tj ET
+BT /F1 9.20 Tf 50.00 313.50 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 313.50 Td (Defined the documentation strategy for Run:ai's transition to open source, assessing existing) Tj ET
+BT /F1 9.20 Tf 62.00 301.20 Td (documentation against OSS and developer personas, identifying content and experience gaps, and) Tj ET
+BT /F1 9.20 Tf 62.00 288.90 Td (developing a phased P0/P1/P2 roadmap for developers and external contributors.) Tj ET
+BT /F1 9.20 Tf 50.00 272.60 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 272.60 Td (Designed the developer documentation architecture for the OSS platform, defining how GitHub READMEs,) Tj ET
+BT /F1 9.20 Tf 62.00 260.30 Td (architecture and service documentation, concepts, API/CLI references, and other technical content work) Tj ET
+BT /F1 9.20 Tf 62.00 248.00 Td (together to support developer journeys.) Tj ET
+BT /F1 9.20 Tf 50.00 231.70 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 231.70 Td (Transformed the OSS documentation workflow to support agent-assisted contributions by introducing) Tj ET
+BT /F1 9.20 Tf 62.00 219.40 Td (reusable Agent Skills into the product repository, enabling internal engineers and external) Tj ET
+BT /F1 9.20 Tf 62.00 207.10 Td (contributors to use AI agents to create and maintain documentation while following defined standards,) Tj ET
+BT /F1 9.20 Tf 62.00 194.80 Td (terminology, and workflows.) Tj ET
+BT /F1 9.20 Tf 50.00 178.50 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 178.50 Td (Partnered with Engineering and Product from early development of the Run:ai MCP server, helping) Tj ET
+BT /F1 9.20 Tf 62.00 166.20 Td (determine supported API operations and use cases, validating API coverage and behavior, identifying) Tj ET
+BT /F1 9.20 Tf 62.00 153.90 Td (technical inaccuracies and gaps, and serving as a primary reviewer as the product and developer) Tj ET
+BT /F1 9.20 Tf 62.00 141.60 Td (experience matured.) Tj ET
+BT /F1 9.20 Tf 50.00 125.30 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 125.30 Td (Led the migration of Run:ai documentation to a docs-as-code model integrated with the product) Tj ET
+BT /F1 9.20 Tf 62.00 113.00 Td (monorepo, working hands-on with Git/GitHub, pull-request workflows, documentation reviews, CI-based) Tj ET
+BT /F1 9.20 Tf 62.00 100.70 Td (previews, and automated publishing.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 6131 >>
+stream
+BT /F1 9.20 Tf 50.00 744.00 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 744.00 Td (Defined information architecture, documentation standards, terminology, contribution and review) Tj ET
+BT /F1 9.20 Tf 62.00 731.70 Td (processes, and release workflows, enabling more consistent documentation and closer integration) Tj ET
+BT /F1 9.20 Tf 62.00 719.40 Td (between documentation and engineering development.) Tj ET
+BT /F1 9.20 Tf 50.00 703.10 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 703.10 Td (Partner with Product Management and Engineering throughout feature development to validate technical) Tj ET
+BT /F1 9.20 Tf 62.00 690.80 Td (behavior and workflows, identify documentation and usability gaps, improve product terminology, and) Tj ET
+BT /F1 9.20 Tf 62.00 678.50 Td (ensure technically accurate documentation across releases.) Tj ET
+BT /F2 11.20 Tf 50.00 657.20 Td (Habana Labs \(Intel\)) Tj ET
+BT /F1 9.20 Tf 50.00 641.20 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 641.20 Td (Senior Technical Writer / Team Lead Apr 2020 - Nov 2024) Tj ET
+BT /F1 9.20 Tf 50.00 624.90 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 624.90 Td (Joined as the first technical writer to establish the documentation function for Habana's AI software) Tj ET
+BT /F1 9.20 Tf 62.00 612.60 Td (platform, building the documentation infrastructure, processes, standards, and team needed to support) Tj ET
+BT /F1 9.20 Tf 62.00 600.30 Td (a rapidly evolving developer-focused product.) Tj ET
+BT /F1 9.20 Tf 50.00 584.00 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 584.00 Td (Built the documentation function from the ground up, establishing documentation architecture,) Tj ET
+BT /F1 9.20 Tf 62.00 571.70 Td (authoring and publishing workflows, standards, review processes, and release practices across the) Tj ET
+BT /F1 9.20 Tf 62.00 559.40 Td (organization.) Tj ET
+BT /F1 9.20 Tf 50.00 543.10 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 543.10 Td (Evaluated and implemented a docs-as-code toolchain, migrating documentation from Microsoft Word to) Tj ET
+BT /F1 9.20 Tf 62.00 530.80 Td (Sphinx and Read the Docs and establishing source-controlled workflows that enabled more scalable) Tj ET
+BT /F1 9.20 Tf 62.00 518.50 Td (collaboration with engineering.) Tj ET
+BT /F1 9.20 Tf 50.00 502.20 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 502.20 Td (Partnered closely with R&D, Product Management, Application Engineering, and Marketing on) Tj ET
+BT /F1 9.20 Tf 62.00 489.90 Td (documentation spanning AI software installation and configuration, APIs, PyTorch training and) Tj ET
+BT /F1 9.20 Tf 62.00 477.60 Td (inference, Docker and Kubernetes environments, distributed workloads, debugging and optimization, and) Tj ET
+BT /F1 9.20 Tf 62.00 465.30 Td (other developer workflows.) Tj ET
+BT /F1 9.20 Tf 50.00 449.00 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 449.00 Td (Restructured the documentation and information architecture around user workflows, improving how) Tj ET
+BT /F1 9.20 Tf 62.00 436.70 Td (developers and technical users navigated a complex documentation set spanning software, hardware,) Tj ET
+BT /F1 9.20 Tf 62.00 424.40 Td (APIs, orchestration, and AI development.) Tj ET
+BT /F1 9.20 Tf 50.00 408.10 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 408.10 Td (Established contributor workflows and trained engineers and other technical contributors to work with) Tj ET
+BT /F1 9.20 Tf 62.00 395.80 Td (the documentation toolchain and contribute content effectively.) Tj ET
+BT /F1 9.20 Tf 50.00 379.50 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 379.50 Td (Recruited and trained two technical writers as the documentation function expanded, providing) Tj ET
+BT /F1 9.20 Tf 62.00 367.20 Td (technical and editorial guidance while maintaining documentation quality and consistency.) Tj ET
+BT /F1 9.20 Tf 50.00 350.90 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 350.90 Td (Managed documentation delivery across a six-week software release cadence, coordinating documentation) Tj ET
+BT /F1 9.20 Tf 62.00 338.60 Td (requirements and priorities with engineering and product development.) Tj ET
+BT /F2 11.20 Tf 50.00 317.30 Td (Zerto) Tj ET
+BT /F1 9.20 Tf 50.00 301.30 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 301.30 Td (Senior Technical Writer Jul 2018 - Apr 2020) Tj ET
+BT /F1 9.20 Tf 50.00 285.00 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 285.00 Td (Developed documentation for public-cloud features and complex technical workflows, partnering directly) Tj ET
+BT /F1 9.20 Tf 62.00 272.70 Td (with Engineering and QA to understand, validate, and communicate product behavior.) Tj ET
+BT /F1 9.20 Tf 50.00 256.40 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 256.40 Td (Created and maintained API reference documentation, working hands-on with Postman to test API calls) Tj ET
+BT /F1 9.20 Tf 62.00 244.10 Td (and validate requests, responses, and documented product behavior.) Tj ET
+BT /F1 9.20 Tf 50.00 227.80 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 227.80 Td (Improved documentation usability, information architecture, tooling, and publishing workflows,) Tj ET
+BT /F1 9.20 Tf 62.00 215.50 Td (including automation initiatives and migration from Adobe FrameMaker to MadCap Flare.) Tj ET
+BT /F2 11.20 Tf 50.00 194.20 Td (Mellanox Technologies) Tj ET
+BT /F2 9.50 Tf 50.00 178.20 Td (Senior Technical Writer, May 2014 - Jul 2018 | Technical Writer, Oct 2010 - Apr 2014) Tj ET
+BT /F1 9.20 Tf 50.00 164.20 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 164.20 Td (Developed documentation for complex networking, storage, SoC, FPGA, adapter, and integrated-circuit) Tj ET
+BT /F1 9.20 Tf 62.00 151.90 Td (technologies, working closely with software and hardware engineers, architects, Product Management,) Tj ET
+BT /F1 9.20 Tf 62.00 139.60 Td (and Business Development.) Tj ET
+BT /F1 9.20 Tf 50.00 123.30 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 123.30 Td (Created technical guides, architecture and design specifications, developer and community) Tj ET
+BT /F1 9.20 Tf 62.00 111.00 Td (documentation, and release content for highly technical audiences.) Tj ET
+BT /F1 9.20 Tf 50.00 94.70 Td (-) Tj ET
+BT /F1 9.20 Tf 62.00 94.70 Td (Planned, developed, and maintained a 1,600-page programming manual and mentored a junior technical) Tj ET
+BT /F1 9.20 Tf 62.00 82.40 Td (writer as documentation responsibilities expanded.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 646 >>
+stream
+BT /F2 10.20 Tf 50.00 740.00 Td (TECHNOLOGIES) Tj ET
+0.75 w 50 730.00 m 562 730.00 l S
+BT /F1 8.40 Tf 50.00 714.00 Td (GitHub  |  Git  |  Markdown  |  Sphinx  |  Read the Docs  |  Fern  |  GitBook  |  MadCap Flare  |) Tj ET
+BT /F1 8.40 Tf 50.00 703.00 Td (Postman  |  OpenAPI  |  HTML  |  CSS  |  Confluence  |  Jira  |  SharePoint  |  Microsoft Office) Tj ET
+BT /F2 10.20 Tf 50.00 683.00 Td (EDUCATION) Tj ET
+0.75 w 50 673.00 m 562 673.00 l S
+BT /F1 9.20 Tf 50.00 657.00 Td (M.A., English Literature - University of Haifa) Tj ET
+BT /F1 9.20 Tf 50.00 642.00 Td (B.A., English Language and Literature - Oranim Academic College of Education) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000019 00000 n 
+0000000068 00000 n 
+0000000138 00000 n 
+0000000208 00000 n 
+0000000283 00000 n 
+0000005799 00000 n 
+0000005935 00000 n 
+0000012117 00000 n 
+0000012253 00000 n 
+0000012949 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+13086
+%%EOF
